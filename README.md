@@ -10,6 +10,7 @@ If we want to recommend on the basis of what two similar user's taste then it is
 system . This is less popular as the taste of user keeps on changing with time . A better approach is the item-item similarity.
 The similarity between two matrices can be calculated either by cosine-similarity or the jaccard-simikarity of which cosine 
 similarity is more popular. 
+
 USEFUL RESOURCE : https://www.youtube.com/watch?v=ZspR5PZemcs
 
 ### Second file uses both Collaborative and content based recommendation system.
