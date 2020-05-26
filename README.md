@@ -1,6 +1,6 @@
 # Recommender-System
 
-### Fist file 
+### First file 
 A Movie Recommender model trained on netflix's movie-user-dataset. One of the most popular classical way of recommendation
 system is the collaborative filtering approach , where we are give a matrix of user ratings and the movie. We can factorise
 that matrix using the technique matrix factorization and this done through Singular Value decompostion (SVD). After the 
